@@ -51,10 +51,12 @@ Tela De Logim
 
 ![image](https://github.com/user-attachments/assets/58db49a3-b091-4f04-866a-26adba100f71)
 
-Cadastro
+Cadastro!!
+
 ![image](https://github.com/user-attachments/assets/8e6a18df-49e2-406a-a555-112dc23fd4f1)
 
-Perfil
+Perfil!!
+
 ![image](https://github.com/user-attachments/assets/d15e6045-e0f6-4760-a356-2fabebf1f85d)
 
 
