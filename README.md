@@ -36,14 +36,6 @@ E-mail
 
 🔧 Configuração do Firebase
 
-Acesse Firebase Console
-
-Crie um novo projeto ou![Uploading 46cbce81-89e8-403c-9aee-cd2e629fb92d.jpg…]()
- use um existente
-
-Ative o Firebase Authentication e configure os provedores desejados (Google, Email/Senha, etc.)
-
-Baixe o arquivo google-services.json e adicione à pasta app/ do seu projeto
 
 📷 Captura de Tela (Exemplo)
 
